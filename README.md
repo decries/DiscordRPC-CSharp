@@ -3,7 +3,7 @@
 
 **1: Input the client ID for the application that you created on developers portal.**
 
-**2: Now just input the thing yuo have**
+**2: Now just input the text you want and image key**
 
 ## IMPORTANT
 
