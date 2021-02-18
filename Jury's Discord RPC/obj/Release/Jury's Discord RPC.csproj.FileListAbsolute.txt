@@ -1,0 +1,25 @@
+C:\Users\crike\source\repos\Jury's Discord RPC\Jury's Discord RPC\bin\Release\Jury's Discord RPC.exe.config
+C:\Users\crike\source\repos\Jury's Discord RPC\Jury's Discord RPC\bin\Release\Jury's Discord RPC.exe
+C:\Users\crike\source\repos\Jury's Discord RPC\Jury's Discord RPC\bin\Release\Jury's Discord RPC.pdb
+C:\Users\crike\source\repos\Jury's Discord RPC\Jury's Discord RPC\bin\Release\Discord.Net.Commands.xml
+C:\Users\crike\source\repos\Jury's Discord RPC\Jury's Discord RPC\bin\Release\Discord.Net.Core.xml
+C:\Users\crike\source\repos\Jury's Discord RPC\Jury's Discord RPC\bin\Release\Discord.Net.Rest.xml
+C:\Users\crike\source\repos\Jury's Discord RPC\Jury's Discord RPC\bin\Release\Discord.Net.Webhook.xml
+C:\Users\crike\source\repos\Jury's Discord RPC\Jury's Discord RPC\bin\Release\Discord.Net.WebSocket.xml
+C:\Users\crike\source\repos\Jury's Discord RPC\Jury's Discord RPC\bin\Release\DiscordRPC.xml
+C:\Users\crike\source\repos\Jury's Discord RPC\Jury's Discord RPC\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\crike\source\repos\Jury's Discord RPC\Jury's Discord RPC\bin\Release\Newtonsoft.Json.xml
+C:\Users\crike\source\repos\Jury's Discord RPC\Jury's Discord RPC\bin\Release\System.Collections.Immutable.xml
+C:\Users\crike\source\repos\Jury's Discord RPC\Jury's Discord RPC\bin\Release\System.Interactive.Async.xml
+C:\Users\crike\source\repos\Jury's Discord RPC\Jury's Discord RPC\bin\Release\System.Linq.Async.xml
+C:\Users\crike\source\repos\Jury's Discord RPC\Jury's Discord RPC\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\crike\source\repos\Jury's Discord RPC\Jury's Discord RPC\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\crike\source\repos\Jury's Discord RPC\Jury's Discord RPC\obj\Release\Jury's Discord RPC.csprojAssemblyReference.cache
+C:\Users\crike\source\repos\Jury's Discord RPC\Jury's Discord RPC\obj\Release\Jury_s_Discord_RPC.Main.resources
+C:\Users\crike\source\repos\Jury's Discord RPC\Jury's Discord RPC\obj\Release\Jury_s_Discord_RPC.Properties.Resources.resources
+C:\Users\crike\source\repos\Jury's Discord RPC\Jury's Discord RPC\obj\Release\Jury's Discord RPC.csproj.GenerateResource.cache
+C:\Users\crike\source\repos\Jury's Discord RPC\Jury's Discord RPC\obj\Release\Jury's Discord RPC.csproj.CoreCompileInputs.cache
+C:\Users\crike\source\repos\Jury's Discord RPC\Jury's Discord RPC\obj\Release\Jury's Discord RPC.csproj.CopyComplete
+C:\Users\crike\source\repos\Jury's Discord RPC\Jury's Discord RPC\obj\Release\Jury's Discord RPC.exe
+C:\Users\crike\source\repos\Jury's Discord RPC\Jury's Discord RPC\obj\Release\Jury's Discord RPC.pdb
+C:\Users\crike\source\repos\Jury's Discord RPC\Jury's Discord RPC\obj\Release\Jury's Discord RPC.csproj.Fody.CopyLocal.cache
